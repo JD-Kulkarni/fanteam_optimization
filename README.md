@@ -3,9 +3,11 @@ A collection of codes to use optimization for doing well in FanTeam :)
 
 Once anaconda/miniconda is installed, use the following commands in sequence to setup your conda environment to run the optimization codes:
 
-conda create --name fpl python=3.9
+conda create --name fanteam python=3.9
 
-conda activate fplconda install -c conda-forge jupyterlab
+conda activate fanteam
+
+conda install -c conda-forge jupyterlab
 
 conda install numpy
 
