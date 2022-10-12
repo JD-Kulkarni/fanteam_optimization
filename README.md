@@ -1,5 +1,4 @@
 # Fanteam_Optimization
-A collection of codes to use optimization for doing well in FanTeam :) 
 
 Once anaconda/miniconda is installed, use the following commands in sequence to setup your conda environment to run the optimization codes:
 
